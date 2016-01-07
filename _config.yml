@@ -1,7 +1,7 @@
 name: Stay at Home For Life
 favicon: null
-layout_spectrum: 0.6393010665196925
-typography_spectrum: 0.12954399874433875
+layout_spectrum: 0.87864
+typography_spectrum: 0.56335
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.11393791297450662
   lightness: 0.013835991499945521
-  saturation: 0.6461874216329306
-  rhythmicContrast: 0.6363631351850927
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
